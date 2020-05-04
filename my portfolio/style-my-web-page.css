@@ -1,0 +1,274 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #000000;
+  color: white;
+  height: 100vh;
+}
+
+.container {
+  padding: 0px;
+  margin-bottom: 15px;
+  margin-top: 0px;
+  height: 440px;
+
+
+}
+
+h1 {
+  padding: 40px 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+
+}
+
+#with-more-margin {
+  margin-left: 30px;
+}
+
+.about-me {
+  position: absolute;
+  padding-left: 40px;
+  margin-top: 140px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  margin-left: 40px;
+}
+
+.about-me h2 {
+  font-size: 40px;
+  margin: 0px;
+}
+
+#center-line {
+  padding-left: 100px;
+  font-family: "Arial Black", Gadget, sans-serif;
+  color: red;
+  font-size: 30px;
+  margin: 0px;
+}
+
+#my-photo {
+  float: right;
+  height: 370px;
+  width: 370px;
+  padding-top: 30px;
+  padding-right: 20px;
+  margin-right: 50px;
+  clear: both;
+
+}
+
+/** ----------------------------------------
+    nav bar
+ ---------------------------------------- */
+.nav {
+  float: right;
+  margin-top: 20px;
+  margin-right: 20px;
+  width: 460px;
+
+}
+
+.nav ul {
+  list-style: none;
+}
+
+.nav li {
+  display: inline-block;
+  padding: 15px;
+  border: 2px solid #AA8200;
+  background-color: #72AB00;
+  font-size: larger;
+
+}
+
+.nav li a:hover {
+  color: #EBB400;
+}
+
+.nav li a {
+  text-decoration: none;
+  color: white;
+}
+
+/** ----------------------------------------
+    Section
+ ---------------------------------------- */
+article {
+  margin: 80px auto 20px auto;
+  width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+  background-color: #000000;
+  font-family: "Arial ", Gadget, sans-serif;
+  border-top: 1px solid #6e686b;
+}
+
+section h3 {
+  padding-left: 40px;
+  font-size: 30px;
+  color: #72AB00;
+  text-decoration: underline #EBB400;
+}
+
+/* icons*/
+.fa-graduation-cap,
+.fa-briefcase,
+.fa-address-card,
+.fa-cogs,
+.fa-bar-chart,
+.fa-language,
+.fa-handshake-o {
+  color: #d22d3a;
+  padding: 10px 1px 10px 0px;
+  margin-right: 20px;
+  font-size: 30px;
+
+}
+
+section ul,
+p {
+  color: white;
+}
+
+section p {
+  padding: 5px 15px 5px 5px;
+
+}
+
+.indent {
+  padding-left: 100px;
+}
+
+.left-part {
+  float: left;
+  width: 35%;
+}
+
+.right-part {
+  float: right;
+  width: 65%;
+}
+
+.work-image {
+  float: left;
+  width: 90px;
+  height: 50px;
+  padding: 10px 10px 5px 10px;
+}
+
+/** ----------------------------------------
+    third-section
+ ---------------------------------------- */
+#third-section {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+  font-size: 25px;
+}
+
+.fa-quote-right,
+.fa-quote-left {
+  font-size: 2px;
+}
+
+/** ----------------------------------------
+    footer
+ ---------------------------------------- */
+footer {
+  clear: both;
+  padding-left: 40px;
+  margin: 10px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.follow {
+  float: right;
+  padding: 10px;
+  font-size: 40px;
+
+}
+
+.follow li {
+  list-style: none;
+  transition: .5s;
+  display: inline;
+}
+
+.follow li a {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  font-size: 20px;
+  text-align: center;
+  margin: 0px 5px;
+  border: 1px solid white;
+  border-radius: 50%;
+  color: white;
+}
+
+.follow li a:hover {
+  color: #a9a5a7;
+  border: 1px solid #a9a5a7;
+  background-color: #EBEAEB;
+  transition: .5s;
+}
+
+.Direct {
+  float: left;
+}
+
+#contact h3 {
+  padding-left: 20px;
+  font-size: 30px;
+  color: #72AB00;
+  text-decoration: underline #EBB400;
+
+}
+
+.Direct p {
+  color: white;
+  font-size: 20px;
+}
+
+.the-end {
+  text-align: right;
+  clear: both;
+  margin-top: 100px;
+}
+
+.the-end a {
+
+  line-height: 60px;
+  font-size: 40px;
+  text-align: center;
+  margin: 0px 10px;
+  border: 1px solid white;
+  color: white;
+}
+
+.the-end a:hover {
+  color: #a9a5a7;
+  border: 1px solid #a9a5a7;
+  background-color: #EBEAEB;
+  transition: .5s;
+}
+
+.fa-at,
+.fa-phone {
+  padding-right: 5px;
+}
+
+@media screen and (max-width:600px){
+  article {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+    }
+  .item {
+    max-width: calc(100% - 20px);
+  }
+
+}
