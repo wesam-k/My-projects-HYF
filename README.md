@@ -16,17 +16,15 @@ To know more about me, Please check [My Portfolio](https://github.com/wesam-k/My
 
 
 ### * **React TODO App**
-
 ### Purpose
 - [Todo netlify](https://react-todo-simple-app.netlify.app/)
 - [Github](https://github.com/wesam-k/React-Todo-app)
-The purpose of this App to make the user to add own tasks with the ability to edit or delete and complete any one of those tasks
+The purpose of this App to make the  user add their own tasks with the ability to edit or delete and complete any one of those tasks
 In this project, I used  React, JS, CSS, and Material-ui     --Designed in AUG 2020--
 
 
 
 ### * **Weathr_app**
-
 ### Purpose 
 ...The purpose of this project to use many tools with React JS during learning in HYF like a Chart, Bootstrap and Font Awesome icon and finally host on netlify
 ### About the app
