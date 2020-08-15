@@ -17,8 +17,8 @@ To know more about me, Please check [My Portfolio](https://github.com/wesam-k/My
 
 ### * **React TODO App**
 
-[Todo netlify](https://react-todo-simple-app.netlify.app/)
-[Github](https://github.com/wesam-k/React-Todo-app)
+- [Todo netlify](https://react-todo-simple-app.netlify.app/)
+- [Github](https://github.com/wesam-k/React-Todo-app)
 Todo is a simple project to add a task to the tasks list with available to edit or delete and completed.
 In this project, I used  React, JS, HTML, CSS, and Material-ui without a framework     --Designed in AUG 2020--
 
@@ -34,5 +34,5 @@ In this project, I used  React, JS, HTML, CSS, and Material-ui without a framewo
 
 ...
 
- [Click here to visit it  ](https://weatherappsam.netlify.app/)
- [Github](https://github.com/wesam-k/React_Weather_app)
+ - [Click here to visit it  ](https://weatherappsam.netlify.app/)
+ - [Github](https://github.com/wesam-k/React_Weather_app)
