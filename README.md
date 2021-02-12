@@ -16,7 +16,7 @@ This is my first project after I learned HTML and CSS on my own without a framew
 
 ### * **My Portfolio**
 
-To know more about me, Please check [My Portfolio](https://github.com/wesam-k/My-projects-HYF-/tree/My-projects-during-HYF/my%20portfolio/)  --one layout HTML/CSS--
+To know more about me, Please check [My Portfolio](https://github.com/wesam-k/My-projects-HYF/tree/My-projects--HYF/my%20portfolio)  --one layout HTML/CSS--
 
 
 
